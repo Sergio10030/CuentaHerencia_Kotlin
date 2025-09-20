@@ -3,6 +3,7 @@ CuentaHerencia_Kotlin
 Integrantes
 
 Sergio Edgardo Navarro Laguna
+
 Fidel Hitochi Meza Cruzado
 
 Curso / Profesor
