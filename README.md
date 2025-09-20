@@ -7,6 +7,7 @@ Sergio Edgardo Navarro Laguna
 Fidel Hitochi Meza Cruzado
 
 Curso / Profesor
+
 SISTEMAS MOVILES
 USCUCHAGUA FLORES, GELBER CHRISTIAN
 
